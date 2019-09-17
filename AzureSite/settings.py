@@ -175,11 +175,6 @@ LOGGING = {
             'level': 'ERROR',
             'handlers': ['file'],
             'propagate': True,
-        },
-        'SupplyChain.databricks_linux.databricks.py': {
-            'level': 'ERROR',
-            'handlers': ['databricks_file'],
-            'propagate': True,
         }
     }
 }
