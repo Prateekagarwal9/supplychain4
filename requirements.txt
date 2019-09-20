@@ -41,5 +41,5 @@ azure-storage-blob==1.5.0
 azure-storage-common==1.4.2
 azure-storage-file==1.4.0
 azure-storage-queue==1.4.0
-wheel=0.33.6
-wfastcgi=3.0.0
+wheel==0.33.6
+wfastcgi==3.0.0
